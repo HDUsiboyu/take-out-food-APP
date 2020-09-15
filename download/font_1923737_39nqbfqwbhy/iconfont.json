@@ -1,0 +1,23 @@
+{
+  "id": "1923737",
+  "name": "硅谷外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776945",
+      "name": "discount",
+      "font_class": "icon-test",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8777250",
+      "name": "user",
+      "font_class": "icon-test1",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
